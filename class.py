@@ -1,4 +1,4 @@
- #write class in python
+ # class in python
 class MyClass:
     """A simple example class"""
     i = 12345
