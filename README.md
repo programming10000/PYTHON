@@ -21,4 +21,5 @@ In this repository we get fundamentals of Python programming
 - encapsulation
 - tuples
 - lists
+- data types
 
