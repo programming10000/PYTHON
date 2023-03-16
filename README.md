@@ -15,4 +15,10 @@ In this repository we get fundamentals of Python programming
 - loops
 - variables
 - arrays
+- functions
+- classes
+- Inheritance
+- encapsulation
+- tuples
+- lists
 
